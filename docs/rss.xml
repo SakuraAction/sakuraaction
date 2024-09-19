@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>樱行的博客</title><link>https://SakuraAction.github.io/sakuraaction</link><description>一个MC服务器服主，B站UP主樱行</description><copyright>樱行的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://q.qlogo.cn/headimg_dl?dst_uin=3837108270&amp;spec=640&amp;img_type=png</url><title>avatar</title><link>https://SakuraAction.github.io/sakuraaction</link></image><lastBuildDate>Thu, 19 Sep 2024 14:25:59 +0000</lastBuildDate><managingEditor>樱行的博客</managingEditor><ttl>60</ttl><webMaster>樱行的博客</webMaster><item><title>Sakura Action</title><link>https://SakuraAction.github.io/sakuraaction/post/Sakura%20Action.html</link><description># 欢迎来到我的博客&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>樱行的博客</title><link>https://SakuraAction.github.io/sakuraaction</link><description>一个MC服务器服主，B站UP主樱行</description><copyright>樱行的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://q.qlogo.cn/headimg_dl?dst_uin=3837108270&amp;spec=640&amp;img_type=png</url><title>avatar</title><link>https://SakuraAction.github.io/sakuraaction</link></image><lastBuildDate>Thu, 19 Sep 2024 16:42:25 +0000</lastBuildDate><managingEditor>樱行的博客</managingEditor><ttl>60</ttl><webMaster>樱行的博客</webMaster><item><title>博客介绍</title><link>https://SakuraAction.github.io/sakuraaction/post/bo-ke-jie-shao.html</link><description># 欢迎来到我的博客&#13;
 &#13;
     你好，我是樱行，感谢你浏览我的博客&#13;
     我是一个热爱生活的14岁的UP&#13;
@@ -14,4 +14,4 @@
 &#13;
 ## 博客内容&#13;
 ### 这个博客将主要包含以下几类内容：&#13;
-    1.[专业领域]: 我会分享最新动态、个人见解和实用技巧。</description><guid isPermaLink="true">https://SakuraAction.github.io/sakuraaction/post/Sakura%20Action.html</guid><pubDate>Thu, 19 Sep 2024 04:33:10 +0000</pubDate></item></channel></rss>
+    1.[专业领域]: 我会分享最新动态、个人见解和实用技巧。</description><guid isPermaLink="true">https://SakuraAction.github.io/sakuraaction/post/bo-ke-jie-shao.html</guid><pubDate>Thu, 19 Sep 2024 14:31:50 +0000</pubDate></item></channel></rss>
